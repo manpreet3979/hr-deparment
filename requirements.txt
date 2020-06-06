@@ -30,7 +30,7 @@ chardet==3.0.4
 chart-studio==1.0.0
 Click==7.0
 cloudpickle==1.2.1
-clyent==1.2.2
+
 cmdstanpy==0.4.0
 colorama==0.4.1
 comtypes==1.1.7
